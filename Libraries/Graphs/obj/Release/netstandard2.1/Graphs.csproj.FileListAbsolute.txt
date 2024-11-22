@@ -1,0 +1,12 @@
+C:\Users\hlula\Documents\Work\2024\Unity 3D\Games\Stand\Assets\Plugins\Release\netstandard2.1\Graphs.deps.json
+C:\Users\hlula\Documents\Work\2024\Unity 3D\Games\Stand\Assets\Plugins\Release\netstandard2.1\Graphs.dll
+C:\Users\hlula\Documents\Work\2024\Unity 3D\Games\Stand\Assets\Plugins\Release\netstandard2.1\Graphs.pdb
+C:\Users\hlula\Projects 2024\Libraries\Graphs\obj\Release\netstandard2.1\Graphs.csproj.AssemblyReference.cache
+C:\Users\hlula\Projects 2024\Libraries\Graphs\obj\Release\netstandard2.1\Graphs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlula\Projects 2024\Libraries\Graphs\obj\Release\netstandard2.1\Graphs.AssemblyInfoInputs.cache
+C:\Users\hlula\Projects 2024\Libraries\Graphs\obj\Release\netstandard2.1\Graphs.AssemblyInfo.cs
+C:\Users\hlula\Projects 2024\Libraries\Graphs\obj\Release\netstandard2.1\Graphs.csproj.CoreCompileInputs.cache
+C:\Users\hlula\Projects 2024\Libraries\Graphs\obj\Release\netstandard2.1\Graphs.sourcelink.json
+C:\Users\hlula\Projects 2024\Libraries\Graphs\obj\Release\netstandard2.1\Graphs.csproj.Up2Date
+C:\Users\hlula\Projects 2024\Libraries\Graphs\obj\Release\netstandard2.1\Graphs.dll
+C:\Users\hlula\Projects 2024\Libraries\Graphs\obj\Release\netstandard2.1\Graphs.pdb

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 993656959, guid: bff4b41a614f9044ba1d5e24cea62518, type: 3}
+  m_Name: Donkey Graph
+  m_EditorClassIdentifier: 
+  NodeLinks:
+  - BaseNodeGUID: c65fdfdf-0071-4435-8535-803435428d88
+    PortName: output
+    TargetNodeGUID: 553f832f-4859-49e1-8d31-23f3db7274c9
+  - BaseNodeGUID: 553f832f-4859-49e1-8d31-23f3db7274c9
+    PortName: output 0
+    TargetNodeGUID: 5c1ac1e3-3079-4214-8de8-7d028b62138f
+  - BaseNodeGUID: 553f832f-4859-49e1-8d31-23f3db7274c9
+    PortName: output 1
+    TargetNodeGUID: 79b8c164-c9d2-418a-90ca-1e0fbbcabec7
+  - BaseNodeGUID: 5c1ac1e3-3079-4214-8de8-7d028b62138f
+    PortName: output 0
+    TargetNodeGUID: e332a4c3-1223-4ff8-a7ef-5487843f8e2f
+  - BaseNodeGUID: 79b8c164-c9d2-418a-90ca-1e0fbbcabec7
+    PortName: output 0
+    TargetNodeGUID: e332a4c3-1223-4ff8-a7ef-5487843f8e2f
+  BaseNodes:
+  - GUID: 553f832f-4859-49e1-8d31-23f3db7274c9
+    Position: {x: 185, y: 113}
+  - GUID: 79b8c164-c9d2-418a-90ca-1e0fbbcabec7
+    Position: {x: 424, y: 214}
+  - GUID: 5c1ac1e3-3079-4214-8de8-7d028b62138f
+    Position: {x: 424, y: 36}
+  - GUID: e332a4c3-1223-4ff8-a7ef-5487843f8e2f
+    Position: {x: 689, y: 123.5}

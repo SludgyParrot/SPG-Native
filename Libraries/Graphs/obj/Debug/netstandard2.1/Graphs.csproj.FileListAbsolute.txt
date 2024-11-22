@@ -1,0 +1,11 @@
+C:\Users\hlula\Documents\Work\2024\Native\Libraries\Graphs\obj\Debug\netstandard2.1\Graphs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlula\Documents\Work\2024\Native\Libraries\Graphs\obj\Debug\netstandard2.1\Graphs.AssemblyInfoInputs.cache
+C:\Users\hlula\Documents\Work\2024\Native\Libraries\Graphs\obj\Debug\netstandard2.1\Graphs.AssemblyInfo.cs
+C:\Users\hlula\Documents\Work\2024\Native\Libraries\Graphs\obj\Debug\netstandard2.1\Graphs.csproj.CoreCompileInputs.cache
+C:\Users\hlula\Documents\Work\2024\Native\DLL Build\Debug\netstandard2.1\Graphs.deps.json
+C:\Users\hlula\Documents\Work\2024\Native\DLL Build\Debug\netstandard2.1\Graphs.dll
+C:\Users\hlula\Documents\Work\2024\Native\DLL Build\Debug\netstandard2.1\Graphs.pdb
+C:\Users\hlula\Documents\Work\2024\Native\Libraries\Graphs\obj\Debug\netstandard2.1\Graphs.csproj.AssemblyReference.cache
+C:\Users\hlula\Documents\Work\2024\Native\Libraries\Graphs\obj\Debug\netstandard2.1\Graphs.csproj.Up2Date
+C:\Users\hlula\Documents\Work\2024\Native\Libraries\Graphs\obj\Debug\netstandard2.1\Graphs.dll
+C:\Users\hlula\Documents\Work\2024\Native\Libraries\Graphs\obj\Debug\netstandard2.1\Graphs.pdb

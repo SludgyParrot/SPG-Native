@@ -1,0 +1,11 @@
+C:\Users\hlula\Documents\Work\2024\Native\Libraries\Extensions\obj\Debug\netstandard2.1\Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlula\Documents\Work\2024\Native\Libraries\Extensions\obj\Debug\netstandard2.1\Extensions.AssemblyInfoInputs.cache
+C:\Users\hlula\Documents\Work\2024\Native\Libraries\Extensions\obj\Debug\netstandard2.1\Extensions.AssemblyInfo.cs
+C:\Users\hlula\Documents\Work\2024\Native\Libraries\Extensions\obj\Debug\netstandard2.1\Extensions.csproj.CoreCompileInputs.cache
+C:\Users\hlula\Documents\Work\2024\Native\DLL Build\Debug\netstandard2.1\Extensions.deps.json
+C:\Users\hlula\Documents\Work\2024\Native\DLL Build\Debug\netstandard2.1\Extensions.dll
+C:\Users\hlula\Documents\Work\2024\Native\DLL Build\Debug\netstandard2.1\Extensions.pdb
+C:\Users\hlula\Documents\Work\2024\Native\Libraries\Extensions\obj\Debug\netstandard2.1\Extensions.csproj.AssemblyReference.cache
+C:\Users\hlula\Documents\Work\2024\Native\Libraries\Extensions\obj\Debug\netstandard2.1\Extensions.csproj.Up2Date
+C:\Users\hlula\Documents\Work\2024\Native\Libraries\Extensions\obj\Debug\netstandard2.1\Extensions.dll
+C:\Users\hlula\Documents\Work\2024\Native\Libraries\Extensions\obj\Debug\netstandard2.1\Extensions.pdb

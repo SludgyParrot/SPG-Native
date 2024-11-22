@@ -1,0 +1,18 @@
+C:\Users\hlula\Projects 2024\Filar 3D\Assets\Plugins\Editor\Release\netstandard2.1\Editors.deps.json
+C:\Users\hlula\Projects 2024\Filar 3D\Assets\Plugins\Editor\Release\netstandard2.1\Editors.dll
+C:\Users\hlula\Projects 2024\Filar 3D\Assets\Plugins\Editor\Release\netstandard2.1\Editors.pdb
+C:\Users\hlula\Projects 2024\Libraries\Editors\obj\Release\netstandard2.1\Editors.csproj.AssemblyReference.cache
+C:\Users\hlula\Projects 2024\Libraries\Editors\obj\Release\netstandard2.1\Editors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlula\Projects 2024\Libraries\Editors\obj\Release\netstandard2.1\Editors.AssemblyInfoInputs.cache
+C:\Users\hlula\Projects 2024\Libraries\Editors\obj\Release\netstandard2.1\Editors.AssemblyInfo.cs
+C:\Users\hlula\Projects 2024\Libraries\Editors\obj\Release\netstandard2.1\Editors.csproj.CoreCompileInputs.cache
+C:\Users\hlula\Projects 2024\Libraries\Editors\obj\Release\netstandard2.1\Editors.sourcelink.json
+C:\Users\hlula\Projects 2024\Libraries\Editors\obj\Release\netstandard2.1\Editors.csproj.Up2Date
+C:\Users\hlula\Projects 2024\Libraries\Editors\obj\Release\netstandard2.1\Editors.dll
+C:\Users\hlula\Projects 2024\Libraries\Editors\obj\Release\netstandard2.1\Editors.pdb
+C:\Users\hlula\Documents\Work\2024\Unity 3D\Games\Stand\Assets\Plugins\Release\netstandard2.1\Editors.deps.json
+C:\Users\hlula\Documents\Work\2024\Unity 3D\Games\Stand\Assets\Plugins\Release\netstandard2.1\Editors.dll
+C:\Users\hlula\Documents\Work\2024\Unity 3D\Games\Stand\Assets\Plugins\Release\netstandard2.1\Editors.pdb
+C:\Users\hlula\Documents\Work\2024\Unity 3D\Games\Stand\Assets\Plugins\Editor\Release\netstandard2.1\Editors.deps.json
+C:\Users\hlula\Documents\Work\2024\Unity 3D\Games\Stand\Assets\Plugins\Editor\Release\netstandard2.1\Editors.dll
+C:\Users\hlula\Documents\Work\2024\Unity 3D\Games\Stand\Assets\Plugins\Editor\Release\netstandard2.1\Editors.pdb
