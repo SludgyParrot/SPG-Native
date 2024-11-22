@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Linq;
-using Common;
+using Shared;
 
 namespace Debugger.Services
 {

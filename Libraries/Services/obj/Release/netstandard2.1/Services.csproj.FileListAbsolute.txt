@@ -25,3 +25,18 @@ C:\Users\hlula\Projects 2024\Libraries\Services\obj\Release\netstandard2.1\Servi
 C:\Users\hlula\Documents\Work\2024\Unity 3D\Games\Stand\Assets\Plugins\Release\netstandard2.1\Services.deps.json
 C:\Users\hlula\Documents\Work\2024\Unity 3D\Games\Stand\Assets\Plugins\Release\netstandard2.1\Services.dll
 C:\Users\hlula\Documents\Work\2024\Unity 3D\Games\Stand\Assets\Plugins\Release\netstandard2.1\Services.pdb
+C:\Users\hlula\Documents\Work\2024\SPG-Native\Libraries\Services\obj\Release\netstandard2.1\Services.csproj.AssemblyReference.cache
+C:\Users\hlula\Documents\Work\2024\SPG-Native\Libraries\Services\obj\Release\netstandard2.1\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlula\Documents\Work\2024\SPG-Native\Libraries\Services\obj\Release\netstandard2.1\Services.AssemblyInfoInputs.cache
+C:\Users\hlula\Documents\Work\2024\SPG-Native\Libraries\Services\obj\Release\netstandard2.1\Services.AssemblyInfo.cs
+C:\Users\hlula\Documents\Work\2024\SPG-Native\Libraries\Services\obj\Release\netstandard2.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\hlula\Documents\Work\2024\SPG-Native\Libraries\Services\obj\Release\netstandard2.1\Services.sourcelink.json
+C:\Users\hlula\Documents\Work\2024\SPG-Native\Libraries\Services\obj\Release\netstandard2.1\Services.dll
+C:\Users\hlula\Documents\Work\2024\SPG-Native\Libraries\Services\obj\Release\netstandard2.1\Services.pdb
+C:\Users\hlula\Documents\Work\2024\Native\DLL Build\Release\netstandard2.1\Services.deps.json
+C:\Users\hlula\Documents\Work\2024\Native\DLL Build\Release\netstandard2.1\Services.dll
+C:\Users\hlula\Documents\Work\2024\Native\DLL Build\Release\netstandard2.1\Services.pdb
+C:\Users\hlula\Documents\Work\2024\SPG-Native\Libraries\Services\obj\Release\netstandard2.1\Services.csproj.Up2Date
+C:\Users\hlula\Documents\Work\2024\SPG-Native\DLL Build\Release\netstandard2.1\Services.deps.json
+C:\Users\hlula\Documents\Work\2024\SPG-Native\DLL Build\Release\netstandard2.1\Services.dll
+C:\Users\hlula\Documents\Work\2024\SPG-Native\DLL Build\Release\netstandard2.1\Services.pdb

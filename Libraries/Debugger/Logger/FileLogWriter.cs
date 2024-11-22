@@ -2,7 +2,7 @@
 using System.Text;
 using System.IO;
 
-using static Common.IO.DirectoryHelper;
+using static Shared.IO.DirectoryHelper;
 
 namespace Debugger
 {

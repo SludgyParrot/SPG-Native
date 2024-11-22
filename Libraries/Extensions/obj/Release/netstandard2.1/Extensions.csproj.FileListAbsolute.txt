@@ -13,3 +13,18 @@ C:\Users\hlula\Projects 2024\Libraries\Extensions\obj\Release\netstandard2.1\Ext
 C:\Users\hlula\Documents\Work\2024\Unity 3D\Games\Stand\Assets\Plugins\Release\netstandard2.1\Extensions.deps.json
 C:\Users\hlula\Documents\Work\2024\Unity 3D\Games\Stand\Assets\Plugins\Release\netstandard2.1\Extensions.dll
 C:\Users\hlula\Documents\Work\2024\Unity 3D\Games\Stand\Assets\Plugins\Release\netstandard2.1\Extensions.pdb
+C:\Users\hlula\Documents\Work\2024\SPG-Native\Libraries\Extensions\obj\Release\netstandard2.1\Extensions.csproj.AssemblyReference.cache
+C:\Users\hlula\Documents\Work\2024\SPG-Native\Libraries\Extensions\obj\Release\netstandard2.1\Extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlula\Documents\Work\2024\SPG-Native\Libraries\Extensions\obj\Release\netstandard2.1\Extensions.AssemblyInfoInputs.cache
+C:\Users\hlula\Documents\Work\2024\SPG-Native\Libraries\Extensions\obj\Release\netstandard2.1\Extensions.AssemblyInfo.cs
+C:\Users\hlula\Documents\Work\2024\SPG-Native\Libraries\Extensions\obj\Release\netstandard2.1\Extensions.csproj.CoreCompileInputs.cache
+C:\Users\hlula\Documents\Work\2024\SPG-Native\Libraries\Extensions\obj\Release\netstandard2.1\Extensions.sourcelink.json
+C:\Users\hlula\Documents\Work\2024\SPG-Native\Libraries\Extensions\obj\Release\netstandard2.1\Extensions.dll
+C:\Users\hlula\Documents\Work\2024\SPG-Native\Libraries\Extensions\obj\Release\netstandard2.1\Extensions.pdb
+C:\Users\hlula\Documents\Work\2024\Native\DLL Build\Release\netstandard2.1\Extensions.deps.json
+C:\Users\hlula\Documents\Work\2024\Native\DLL Build\Release\netstandard2.1\Extensions.dll
+C:\Users\hlula\Documents\Work\2024\Native\DLL Build\Release\netstandard2.1\Extensions.pdb
+C:\Users\hlula\Documents\Work\2024\SPG-Native\Libraries\Extensions\obj\Release\netstandard2.1\Extensions.csproj.Up2Date
+C:\Users\hlula\Documents\Work\2024\SPG-Native\DLL Build\Release\netstandard2.1\Extensions.deps.json
+C:\Users\hlula\Documents\Work\2024\SPG-Native\DLL Build\Release\netstandard2.1\Extensions.dll
+C:\Users\hlula\Documents\Work\2024\SPG-Native\DLL Build\Release\netstandard2.1\Extensions.pdb

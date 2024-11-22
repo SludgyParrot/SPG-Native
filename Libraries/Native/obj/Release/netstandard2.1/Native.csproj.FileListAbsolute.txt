@@ -16,3 +16,21 @@ C:\Users\hlula\Documents\Work\2024\Unity 3D\Games\Stand\Assets\Plugins\Release\n
 C:\Users\hlula\Documents\Work\2024\Unity 3D\Games\Stand\Assets\Plugins\Release\netstandard2.1\Native.dll
 C:\Users\hlula\Documents\Work\2024\Unity 3D\Games\Stand\Assets\Plugins\Release\netstandard2.1\Native.pdb
 C:\Users\hlula\Documents\Work\2024\Unity 3D\Games\Stand\Assets\Plugins\Release\netstandard2.1\Native.xml
+C:\Users\hlula\Documents\Work\2024\SPG-Native\Libraries\Native\obj\Release\netstandard2.1\Native.csproj.AssemblyReference.cache
+C:\Users\hlula\Documents\Work\2024\SPG-Native\Libraries\Native\obj\Release\netstandard2.1\Native.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hlula\Documents\Work\2024\SPG-Native\Libraries\Native\obj\Release\netstandard2.1\Native.AssemblyInfoInputs.cache
+C:\Users\hlula\Documents\Work\2024\SPG-Native\Libraries\Native\obj\Release\netstandard2.1\Native.AssemblyInfo.cs
+C:\Users\hlula\Documents\Work\2024\SPG-Native\Libraries\Native\obj\Release\netstandard2.1\Native.csproj.CoreCompileInputs.cache
+C:\Users\hlula\Documents\Work\2024\SPG-Native\Libraries\Native\obj\Release\netstandard2.1\Native.sourcelink.json
+C:\Users\hlula\Documents\Work\2024\SPG-Native\Libraries\Native\obj\Release\netstandard2.1\Native.dll
+C:\Users\hlula\Documents\Work\2024\SPG-Native\Libraries\Native\obj\Release\netstandard2.1\Native.xml
+C:\Users\hlula\Documents\Work\2024\SPG-Native\Libraries\Native\obj\Release\netstandard2.1\Native.pdb
+C:\Users\hlula\Documents\Work\2024\Native\DLL Build\Release\netstandard2.1\Native.deps.json
+C:\Users\hlula\Documents\Work\2024\Native\DLL Build\Release\netstandard2.1\Native.dll
+C:\Users\hlula\Documents\Work\2024\Native\DLL Build\Release\netstandard2.1\Native.pdb
+C:\Users\hlula\Documents\Work\2024\Native\DLL Build\Release\netstandard2.1\Native.xml
+C:\Users\hlula\Documents\Work\2024\SPG-Native\Libraries\Native\obj\Release\netstandard2.1\Native.csproj.Up2Date
+C:\Users\hlula\Documents\Work\2024\SPG-Native\DLL Build\Release\netstandard2.1\Native.deps.json
+C:\Users\hlula\Documents\Work\2024\SPG-Native\DLL Build\Release\netstandard2.1\Native.dll
+C:\Users\hlula\Documents\Work\2024\SPG-Native\DLL Build\Release\netstandard2.1\Native.pdb
+C:\Users\hlula\Documents\Work\2024\SPG-Native\DLL Build\Release\netstandard2.1\Native.xml

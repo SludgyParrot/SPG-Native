@@ -2,22 +2,12 @@
   "version": 3,
   "targets": {
     ".NETStandard,Version=v2.1": {
-      "Common/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.1",
-        "compile": {
-          "bin/placeholder/Common.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Common.dll": {}
-        }
-      },
       "Debugger/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
-          "Common": "1.0.0",
-          "Extensions": "1.0.0"
+          "Extensions": "1.0.0",
+          "Shared": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Debugger.dll": {}
@@ -30,7 +20,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
-          "Common": "1.0.0"
+          "Shared": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Extensions.dll": {}
@@ -38,15 +28,20 @@
         "runtime": {
           "bin/placeholder/Extensions.dll": {}
         }
+      },
+      "Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shared.dll": {}
+        }
       }
     }
   },
   "libraries": {
-    "Common/1.0.0": {
-      "type": "project",
-      "path": "../Common/Common.csproj",
-      "msbuildProject": "../Common/Common.csproj"
-    },
     "Debugger/1.0.0": {
       "type": "project",
       "path": "../Debugger/Debugger.csproj",
@@ -56,11 +51,17 @@
       "type": "project",
       "path": "../Extensions/Extensions.csproj",
       "msbuildProject": "../Extensions/Extensions.csproj"
+    },
+    "Shared/1.0.0": {
+      "type": "project",
+      "path": "../Shared/Shared.csproj",
+      "msbuildProject": "../Shared/Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.1": [
-      "Debugger >= 1.0.0"
+      "Debugger >= 1.0.0",
+      "Shared >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -97,6 +98,9 @@
           "projectReferences": {
             "C:\\Users\\hlula\\Documents\\Work\\2024\\SPG-Native\\Libraries\\Debugger\\Debugger.csproj": {
               "projectPath": "C:\\Users\\hlula\\Documents\\Work\\2024\\SPG-Native\\Libraries\\Debugger\\Debugger.csproj"
+            },
+            "C:\\Users\\hlula\\Documents\\Work\\2024\\SPG-Native\\Libraries\\Shared\\Shared.csproj": {
+              "projectPath": "C:\\Users\\hlula\\Documents\\Work\\2024\\SPG-Native\\Libraries\\Shared\\Shared.csproj"
             }
           }
         }

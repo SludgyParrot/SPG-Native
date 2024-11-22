@@ -2,22 +2,12 @@
   "version": 3,
   "targets": {
     ".NETStandard,Version=v2.1": {
-      "Common/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.1",
-        "compile": {
-          "bin/placeholder/Common.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Common.dll": {}
-        }
-      },
       "Debugger/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
-          "Common": "1.0.0",
-          "Extensions": "1.0.0"
+          "Extensions": "1.0.0",
+          "Shared": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Debugger.dll": {}
@@ -30,7 +20,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
-          "Common": "1.0.0"
+          "Shared": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Extensions.dll": {}
@@ -43,7 +33,8 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
-          "Debugger": "1.0.0"
+          "Debugger": "1.0.0",
+          "Shared": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Native.dll": {}
@@ -51,15 +42,20 @@
         "runtime": {
           "bin/placeholder/Native.dll": {}
         }
+      },
+      "Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shared.dll": {}
+        }
       }
     }
   },
   "libraries": {
-    "Common/1.0.0": {
-      "type": "project",
-      "path": "../Common/Common.csproj",
-      "msbuildProject": "../Common/Common.csproj"
-    },
     "Debugger/1.0.0": {
       "type": "project",
       "path": "../Debugger/Debugger.csproj",
@@ -74,6 +70,11 @@
       "type": "project",
       "path": "../Native/Native.csproj",
       "msbuildProject": "../Native/Native.csproj"
+    },
+    "Shared/1.0.0": {
+      "type": "project",
+      "path": "../Shared/Shared.csproj",
+      "msbuildProject": "../Shared/Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {

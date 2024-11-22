@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = Editors
-build_property.ProjectDir = C:\Users\hlula\Projects 2024\Libraries\Editors\
+build_property.ProjectDir = C:\Users\hlula\Documents\Work\2024\SPG-Native\Libraries\Editors\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false
